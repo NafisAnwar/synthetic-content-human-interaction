@@ -1,0 +1,13 @@
+{
+  "best_pipeline": "Embeddings + LR",
+  "best_feature_type": "embeddings",
+  "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "label_file_used": "/content/drive/MyDrive/reddit_ai_study/input/labeled_master.csv",
+  "n_total_comments": 7606,
+  "n_labeled_used": 1285,
+  "class_counts": {
+    "0.0": 1165,
+    "1.0": 120
+  },
+  "split_seed": 1
+}
