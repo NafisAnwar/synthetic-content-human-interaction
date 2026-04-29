@@ -39,12 +39,22 @@ results/
 ├── synthetic_prevalence_vs_h2h_ratio.png
 └── weekly_subreddit_trends.png
 
-## Suggested Figures
+## Figures
 
-- Scatter plot of `synthetic_prevalence` vs. `h2h_ratio` (colored by subreddit)
-- Bar chart of average synthetic prevalence by subreddit
-- Bar chart of average h2h_ratio by subreddit
-- Weekly trend lines of synthetic prevalence by subreddit
-- Weekly trend lines of h2h_ratio by subreddit
+- Scatter plot of `synthetic_prevalence` vs. `h2h_ratio` (colored by subreddit):
+  <img width="889" height="590" alt="image" src="https://github.com/user-attachments/assets/c87e605a-514f-4639-b1c7-f8a85cdf6fad" />
+
+- Bar chart of average synthetic prevalence by subreddit:
+  <img width="790" height="490" alt="image" src="https://github.com/user-attachments/assets/2aa6e820-1e7f-40cc-9f8f-cac26cf7369e" />
+
+- Bar chart of average h2h_ratio by subreddit:
+  <img width="790" height="490" alt="image" src="https://github.com/user-attachments/assets/971659d7-ae43-4821-a1dc-c15a12a99847" />
+
+- Weekly trend lines of synthetic prevalence by subreddit:
+  <img width="1089" height="590" alt="image" src="https://github.com/user-attachments/assets/cacb2407-9967-424d-b5dd-d491d705ae72" />
+
+- Weekly trend lines of h2h_ratio by subreddit:
+  <img width="1089" height="590" alt="image" src="https://github.com/user-attachments/assets/dbbd85d8-255a-4a76-ab9d-0abf90a8d4c2" />
+
 
 > **Reminder:** Results are observational. The project finds an association between synthetic-like prevalence and lower human-to-human interaction — it does not prove causation or verified AI authorship.
