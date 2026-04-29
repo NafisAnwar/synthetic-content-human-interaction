@@ -1,0 +1,5 @@
+batch_id,subreddit,window_start,window_end,tag,raw_comments,excluded_comments,template_removed_comments,meta_removed_comments,final_clean_comments,retention_pct,anchor_posts,posts_with_retained_comments,comment_to_comment_replies,direct_post_replies,reply_chain_share_pct,parent_post_found_rate_pct,weeks_present
+Advice__20251006__20251228__weekbalanced,Advice,20251006,20251228,weekbalanced,3600,93,1,0.0,2498,69.39,917,765,435,2063,17.41,92.95,12
+AskDocs__20251006__20251228__weekbalanced,AskDocs,20251006,20251228,weekbalanced,6100,2834,3,42.0,1572,25.77,977,596,819,753,52.1,97.33,12
+askscience__20251006__20251228__weekbalanced,askscience,20251006,20251228,weekbalanced,6600,3287,2,,2541,38.5,190,153,1744,797,68.63,100.0,12
+todayilearned__20251006__20251228__weekbalanced,todayilearned,20251006,20251228,weekbalanced,3600,122,1,3.0,995,27.64,371,230,213,782,21.41,92.26,12
