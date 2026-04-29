@@ -212,10 +212,7 @@ See [`docs/limitations.md`](docs/limitations.md) for more detail.
 
 ## Authors
 
-**Nafis Anwar** 
-**Tanzeel Rahman**
-**Cem Tutar**  
-**Paul Bautista-Solis**  
+**Nafis Anwar**, **Tanzeel Rahman**, **Cem Tutar**, **Paul Bautista-Solis**  
 
 
 University of South Florida  
