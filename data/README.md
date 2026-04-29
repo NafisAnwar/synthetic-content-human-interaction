@@ -1,6 +1,6 @@
 # Data
 
-Raw Reddit data is **not included** in this repository. Raw comments may contain sensitive user-generated content, particularly from communities such as r/AskDocs and r/Advice.
+Raw Reddit data is **included** in this repository. Disclaimer: Raw comments may contain sensitive user-generated content, particularly from communities such as r/AskDocs and r/Advice.
 
 ## Local Data Structure
 
@@ -15,8 +15,7 @@ Raw Reddit data is **not included** in this repository. Raw comments may contain
 | **Labels** | Comments selected for manual annotation with human-like (`0`) / synthetic-like (`1`) / unsure (`-1`) labels |
 | **Processed** | Model scores and final subreddit-week metrics used in regression analysis |
 
-The main file used in the final analysis is `processed/subreddit_week_analysis.csv`.
+The main file used in the final analysis is `labeled_master.csv`.
 
-## Privacy Note
 
-Do not publicly upload raw Reddit comments unless required and you have removed unnecessary personal identifiers. The preferred public-facing version of this project focuses on methodology, aggregate results, and reproducible code.
+
