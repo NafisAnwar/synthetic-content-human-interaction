@@ -3,7 +3,7 @@
 
 > Are subreddit-weeks with higher synthetic-like content prevalence associated with lower levels of human-to-human reply interaction?
 
-A Social Media Mining project studying the relationship between synthetic-style writing and human interaction patterns across Reddit communities. This project **does not** attempt to detect AI-generated content — it estimates whether comments appear more *synthetic-like* or *human-like* based on linguistic patterns, then examines how aggregated synthetic prevalence correlates with community interaction at the subreddit-week level.
+A Social Media Mining project studying the relationship between synthetic-style writing and human interaction patterns across Reddit communities. This project **does not** attempt to detect AI-generated content estimating whether comments appear more *synthetic-like* or *human-like* based on linguistic patterns, then examines how aggregated synthetic prevalence correlates with community interaction at the subreddit-week level.
 
 ---
 
