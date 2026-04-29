@@ -4,34 +4,7 @@ Raw Reddit data is **not included** in this repository. Raw comments may contain
 
 ## Local Data Structure
 
-If reproducing the project locally, organize data as follows:
-data/
-│
-├── raw/
-│   ├── askscience_raw_comments.csv
-│   ├── todayilearned_raw_comments.csv
-│   ├── askdocs_raw_comments.csv
-│   └── advice_raw_comments.csv
-│
-├── clean/
-│   ├── askscience_clean_comments.csv
-│   ├── todayilearned_clean_comments.csv
-│   ├── askdocs_clean_comments.csv
-│   └── advice_clean_comments.csv
-│
-├── labels/
-│   ├── balanced_label_sample.csv
-│   ├── overlap_label_sample.csv
-│   └── final_labeled_comments.csv
-│
-├── processed/
-│   ├── scored_comments.csv
-│   └── subreddit_week_analysis.csv
-│
-└── logs/
-├── comment_exclusions.csv
-├── template_removed_comments.csv
-└── removed_meta_threads.csv
+<img width="280" height="530" alt="image" src="https://github.com/user-attachments/assets/98a820b9-cef9-409e-955a-09d626b3524b" />
 
 ## Data Stages
 
